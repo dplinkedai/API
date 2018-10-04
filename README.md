@@ -13,5 +13,6 @@ To sign up in the platform go to http://linkedai.co/signup and fill the form, yo
 
 ## Get Started
 
-![Alt text](https://drive.google.com/open?id=19ra1Ktx-MaRDGLYXbSH8oZilgRelOHyj)
 When Harry is Done we will let you know!
+
+<img src="/img/harry_sleeping.png" width="40%">.
